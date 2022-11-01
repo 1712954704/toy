@@ -48,6 +48,13 @@
                 font-size: 84px;
             }
 
+            .foot{
+                position:fixed;
+                bottom:0;
+                text-align:center;
+                left:46%;
+            }
+
             .links > a {
                 color: #636b6f;
                 padding: 0 25px;
@@ -94,6 +101,9 @@
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
             </div>
+        </div>
+        <div class="foot">
+            <p>苏ICP备18039192号-1</p>
         </div>
     </body>
 </html>
